@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Simulation Test
+# Simulation
 # 
-# Question：If you are planning to enter a position of 100 contracts and hold it for 3 months, using Huobi trading platform with below contract specifications:
+# Question：If you are planning to enter a position of 100 contracts and hold it for 3 months, using a cryptocurrency platform with below contract specifications:
 # 
 # -	USDT-Margined swaps
 # -	Long position
