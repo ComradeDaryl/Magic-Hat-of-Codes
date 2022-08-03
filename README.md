@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @going-concern
 - 👀 I’m interested in writing lines of code, machine learning, finance, music, and lifting heavy objects 
-- 🌱 I’m currently learning C++, Python, VBA and SQL
+- 🌱 I’m currently learning C++! I know a bit of Python 
 - 💞️ I’m looking to collaborate on C++ and Python projects
 
 <!---
